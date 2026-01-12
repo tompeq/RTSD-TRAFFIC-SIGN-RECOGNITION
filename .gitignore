@@ -28,11 +28,6 @@ ENV/
 # Jupyter
 .ipynb_checkpoints
 
-# Data
-data/rtsd-dataset/
-*.json
-*.txt
-
 # Models
 checkpoints/
 *.pth

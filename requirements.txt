@@ -1,0 +1,26 @@
+# PyTorch
+torchvision>=0.15.0
+PyTorch>=2.0.0
+
+# Обработка изображений
+Pillow>=9.5.0
+opencv-python>=4.7.0
+
+# Работа с данными
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Визуализация
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Метрики
+scikit-learn>=1.2.0
+tqdm>=4.65.0
+
+# Веб
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Дополнительно
+jupyter>=1.0.0
